@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+    font-size: 18px;
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f8f3;
+}
+
+.container {
+    padding: 0 0 50px 30px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: red;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.photo {
+    display: inline-block;
+}
+
+.info {
+    display: inline-block;
+    margin: 0 0 0 30px;
+}
+
+span {
+    color: gray;
+}
